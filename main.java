@@ -12,4 +12,10 @@ class A {
 
 	}
 
+	public void signup(String firstName, String lastName, String address, int phone) {
+
+		System.out.println("You have registered yourself successfully");
+
+	}
+
 }
