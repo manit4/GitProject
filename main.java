@@ -6,4 +6,10 @@ class A {
 
 	}
 
+	public void add(int value1, int value2) {
+
+		System.out.println("The Result is "+(value1+value2));
+
+	}
+
 }
